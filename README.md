@@ -1,7 +1,27 @@
-# Introducing Myself
+# hey, i'm joshua 👋
 
-Hi👋, my name is Joshua. I'm 18, and I love to code, and learn new language every now & then.
-I'm currently learning, Machine Learning & data science. I'm looking to collaborate on open source projects as much as I can, because I believe it will help me in my learning process as well as in gaining experience with logic building and problem solving skills. Feel free to reach me out on Instagram below.
+21. pakistan. i build small things fast and find out which ones make money.
 
-## 🔗 Reach Me Out ↙
-[![Instagram](https://img.shields.io/badge/instragram-000?style=for-the-badge)](https://www.instagram.com/im_yjoshua/)
+not a tutorial collector. i ship, break it, and rebuild it.
+
+## 🔨 currently building
+
+- **[sniffmysite.lol](https://sniffmysite.lol)** — a roast engine that scores startup landing pages and ranks them. tiers: laureate, gladiator, recruit, jester… and lion food. ([repo](https://github.com/im-yjoshua/sniffmysite))
+- **burnalert** — an llm spend guard: cost tracking per user / feature / model, budget alerts, and hard caps that kill runaway spend. sdk + cli + dashboard.
+- **adsauce** — an ai ad creatives tool. paste a product, get ads worth scrolling back for.
+- **sovereign** — a habit-quitting streak tracker (expo, ios). rebuilt from scratch because the first version hurt to look at.
+- **[tangle maze](https://github.com/im-yjoshua/arrow-puzzle-game)** — an arrow puzzle game for ios + android. 21 improvements in, cleared for publishing.
+
+## 🎯 the goal
+
+first $1k online. building in public on [x](https://x.com/_yjoshua).
+
+## 🧰 stack
+
+typescript · next.js · react · expo · supabase · tailwind · turborepo · polar.sh
+
+## 📫 find me
+
+[![X](https://img.shields.io/badge/X-@_yjoshua-black?style=for-the-badge&logo=x)](https://x.com/_yjoshua)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yasshoozer--joshua-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasshoozer-joshua)
+[![Instagram](https://img.shields.io/badge/Instagram-im__yjoshua-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/im_yjoshua)
